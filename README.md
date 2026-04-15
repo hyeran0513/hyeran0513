@@ -9,8 +9,8 @@
 | 분류             | 기술 스택                                      |
 |------------------|------------------------------------------------|
 | 언어             | JavaScript, TypeScript                         |
-| 프레임워크/라이브러리 | React.js, Vue.js, Nuxt.js                      |
+| 프레임워크/라이브러리 | Next.js, React.js, Vue.js, Nuxt.js                      |
 | 상태 관리        | Zustand, Redux Toolkit                         |
-| 서버 상태 관리   | React Query                                     |
+| 서버 상태 관리   | Tanstack Query                                     |
 | 스타일링         | styled-components, Tailwind CSS                |
-| 배포             | Vercel                                         |
+| 배포             | Vercel, GCP                                         |
